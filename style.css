@@ -1,3 +1,9 @@
+.body{
+    background-image: url(https://www.teahub.io/photos/full/318-3186506_apple-september-12-event-wallpaper-september-12.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .ta{
     width: 70%;
     height: 30%;
