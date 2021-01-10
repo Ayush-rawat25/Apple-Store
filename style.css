@@ -16,3 +16,13 @@
 ul{
     margin-left: 290px;
 }
+.tt{
+    width: 70%;
+}
+.rr{
+    width: 80%;
+}
+button{
+    background-color: red;
+    color: white;
+}
