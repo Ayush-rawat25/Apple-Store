@@ -20,9 +20,12 @@ ul{
     width: 70%;
 }
 .rr{
-    width: 80%;
+    width: 100%;
 }
 button{
     background-color: red;
     color: white;
+}
+.img{
+    opacity: 80%;
 }
